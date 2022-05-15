@@ -4,8 +4,8 @@ PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential eq
 # 1. SDE training data construction
 
 ## 1.2 low dimension
-> cd lib
-> python training_data.py --case='ODE' --kl=1.0 --fl=0.2 --mesh_size=400
+  $ cd lib
+  $ python training_data.py --case='ODE' --kl=1.0 --fl=0.2 --mesh_size=400
 
 ## 1.2 high dimension imbalance
 > cd lib
