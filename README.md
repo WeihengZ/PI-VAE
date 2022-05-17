@@ -1,5 +1,5 @@
 This is implementation of physics-informed VAE of the paper:
-PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations( https://arxiv.org/abs/2203.11363 ) \
+PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations( https://arxiv.org/abs/2203.11363 )
 
 
 # 1. SDE training data construction
