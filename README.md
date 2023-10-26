@@ -36,14 +36,16 @@ python SDE.py --case='ODE_fhigh' --u_sensor=2 --k_sensor=17 --f_sensor=51 --mesh
 
 If you make advantage of the PI-VAE in your research, please consider citing our paper in your manuscript:
 ```
-@misc{https://doi.org/10.48550/arxiv.2203.11363,
-  doi = {10.48550/ARXIV.2203.11363},
-  url = {https://arxiv.org/abs/2203.11363},
-  author = {Zhong, Weiheng and Meidani, Hadi},
-  keywords = {Machine Learning (stat.ML), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{ZHONG2023115664,
+title = {PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {403},
+pages = {115664},
+year = {2023},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2022.115664},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782522006193},
+author = {Weiheng Zhong and Hadi Meidani},
 }
 ```
+
